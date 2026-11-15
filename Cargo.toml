@@ -1,0 +1,18 @@
+[package]
+name = "pixel2resolve"
+version = "0.2.1"
+edition = "2024"
+license = "MIT"
+repository = "https://github.com/rkotulan/pixel2resolve"
+
+[dependencies]
+tempfile = "3"
+winreg = "0.56"
+windows-sys = { version = "0.61", features = [
+    "Win32_UI_Controls_Dialogs",
+    "Win32_UI_Shell",
+    "Win32_UI_WindowsAndMessaging",
+] }
+
+[build-dependencies]
+embed-manifest = "1.5"

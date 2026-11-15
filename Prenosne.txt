@@ -1,0 +1,18 @@
+pixel2resolve pro Windows x64
+
+1. Rozbal celý ZIP do složky, ze které chceš utilitu používat.
+2. Dvakrát klikni na pixel2resolve.exe a vyber Přidat do nabídky Průzkumníku.
+3. V Průzkumníku klikni pravým tlačítkem na MP4 a vyber
+   Zobrazit další možnosti → pixel2resolve – převést zvuk v MP4.
+
+Výsledné MP4 najdeš vedle zdrojového videa pod názvem nazev.p2r.mp4.
+Při opakovaném převodu vznikne nazev (2).p2r.mp4.
+Obraz se kopíruje bez rekomprese. MP4 můžeš vybrat také přímo v okně
+pixel2resolve.exe.
+
+Pokud složku přemístíš, otevři utilitu z nového místa a vyber
+Používat tuto kopii v nabídce Průzkumníku. Položku odebereš
+stejnojmenným tlačítkem v okně utility.
+
+FFmpeg je vedle pixel2resolve.exe spolu s licencí a informacemi o sestavení.
+https://www.gyan.dev/ffmpeg/builds/
